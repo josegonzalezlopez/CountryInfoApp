@@ -1,4 +1,19 @@
-# PaisesApp
+# Country Info App
+Fundamentos de una aplicación SPA (Single Page Application),  carga perezosa (lazyload), aplicación real que nos enseñara mucho de cómo funciona Angular y como la información fluye en ella.
+
+
+## Temas tratados
+  * Rutas
+  * RouterLink y RouterLinkActive
+  * Componentes especializados
+  * DebounceTime
+  * Inputs 
+  * SwitchMaps
+  * Consumo de APIs
+  * Tipado de datos
+  * Menú de aplicación
+
+## Angular CLI version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.13.
 
